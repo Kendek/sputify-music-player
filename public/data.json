@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "title":"Sandstorm",
+        "feat":["Gáspár Laci"],
+        "path":"/music/sandstorm.mp3",
+        "album":{
+            "artist":"Darude",
+            "title":"Before the storm - Special Edition",
+            "cover":"/images/darude.jpg"
+        }
+    },
+    {
+        "id":2,
+        "title":"Never gonna give you up",
+        "feat":[],
+        "path":"/music/rick.mp3",
+        "album":{
+            "artist":"Rick Astley",
+            "title":"Whenever xou need somebody",
+            "cover":"/images/rick.jpg"
+        }
+    }
+]
